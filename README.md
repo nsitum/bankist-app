@@ -1,0 +1,1 @@
+Bankist is a minimalist banking application designed as part of Jonas Schmedtmann's advanced JavaScript course. This project demonstrates core web development principles such as DOM manipulation, event handling, state management, and a responsive user interface.
